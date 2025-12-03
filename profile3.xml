@@ -26,24 +26,20 @@
 	<ServerList>
 	    <HostEntry>
 	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
+	            <HostAddress>sj3.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>01.🇺🇸美国sj3</HostName>
+	            <HostAddress>sj3.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>02.🇺🇸美国lax</HostName>
 	            <HostAddress>oc.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sv</HostName>
-	            <HostAddress>sv.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>02.🇺🇸美国oc-苏粤闽适用</HostName>
-	            <HostAddress>107.149.146.82</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>02.🇺🇸美国oc</HostName>
-	            <HostAddress>oc.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>03.🇺🇸美国sd</HostName>
-	            <HostAddress>sd.shangins.uk</HostAddress>
-		</HostEntry>
+	            <HostName>03.🇺🇸美国lax-苏粤闽适用</HostName>
+	            <HostAddress>107.148.233.9</HostAddress>
+		</HostEntry>		
 		<HostEntry>
 	            <HostName>04.🇺🇸美国ion</HostName>
 	            <HostAddress>ion.shangins.uk</HostAddress>
