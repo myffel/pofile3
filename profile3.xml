@@ -45,6 +45,10 @@
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
+	            <HostName>05.🇺🇸美国san</HostName>
+	            <HostAddress>san.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
 	            <HostName>06.🇺🇸美国ion</HostName>
 	            <HostAddress>ion.shangins.uk</HostAddress>
 		</HostEntry>
