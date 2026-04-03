@@ -83,33 +83,37 @@
 		<HostEntry>
 	            <HostName>14.🇭🇰香港-苏粤闽适用</HostName>
 	            <HostAddress>156.245.234.146</HostAddress>
-		</HostEntry>		
+		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇸🇬新加坡</HostName>
+	            <HostName>15.🇭🇰香港2国内中转-连接困难地区适用</HostName>
+	            <HostAddress>sh.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>16.🇸🇬新加坡</HostName>
 	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>16.🇲🇾马来西亚</HostName>
+	            <HostName>17.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>17.🇰🇷韩国-联通移动适用</HostName>
+	            <HostName>18.🇰🇷韩国-联通移动适用</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇦🇺澳大利亚au</HostName>
+	            <HostName>19.🇦🇺澳大利亚au</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>19.🇨🇦加拿大da</HostName>
+	            <HostName>20.🇨🇦加拿大da</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇬🇧英国uk</HostName>
+	            <HostName>21.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇹🇭泰国</HostName>
+	            <HostName>22.🇹🇭泰国</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
